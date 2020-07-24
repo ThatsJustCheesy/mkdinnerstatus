@@ -21,8 +21,8 @@
 title: Minekraft Dinner status
 description: >- # this means to ignore newlines until "baseurl:"
   Minekraft Dinner server status
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mkdinnerstatus" # the subpath of your site, e.g. /blog
+url: "https://igregory.ca/mkdinnerstatus" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ThatsJustCheesy
 
 # Build settings
